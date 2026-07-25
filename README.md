@@ -1,30 +1,18 @@
-# Succubus Takeover – Interactive CYOA
+# Succubus Takeover CYOA
 
-An erotic transgender transformation / gradual corruption Choose-Your-Own-Adventure story.
+Full interactive first-person TG succubus transformation CYOA.
 
-**Play the interactive version:** Open `Succubus_Takeover_CYOA.html` in any modern browser.
+**Live:** https://succubus-takeover-cyoa-anasuccubus.vercel.app
 
-## Features
+## Contents
+- 157 decision pages with unique IDs (P00–P67, E01–E06, P42a–P53k, etc.)
+- Rotating body-exploration text (press same action for different scenes)
+- Mike neighbor path with wine flag and brother variant
+- Expanded slutty outfit → sex shop → bus paths
+- Post-Jessi-reveal hunting spectrum (hesitant hand → club oral)
+- Enriched prose throughout
 
-- Full second-person narrative adapted from the original Succubus Takeover story
-- Alternating choices on nearly every major scene
-- **Resistance** and **Corruption** meters that track how hard you fight vs. how far the transformation goes
-- Hidden **Rogue** path for players who seek knowledge and agency
-- **Three completely different endings**:
-  1. **Willing Succubus** – You stop fighting and embrace the hunger
-  2. **Bound Servant** – You defy to the end and are locked into obedience
-  3. **Rogue** – You turn the System against itself and seize freedom
+## Source
+Primary playable file is maintained in project artifacts as `Succubus_Takeover_CYOA_Mike.html`.
 
-## Story Files
-
-- `Succubus_Story_Full_Synopsis.md` – Complete plot overview
-- `Succubus_Story_Chapters_1-3_Final.md` – Early chapters
-- `Succubus_Story_Chapters_12-14.md` – Late chapters / climax
-
-## Content Warning
-
-18+ · Explicit sexual content · Transgender transformation · Gradual psychological corruption · Coercion themes
-
----
-
-Created as an interactive adaptation of the Succubus Takeover story.
+If index.html on this repo is a stub, open the artifacts file or re-deploy from the project.
